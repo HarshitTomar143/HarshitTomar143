@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on NextJs<br>💂‍♀️I'm looking to colaborate on Gsoc26<br>🤝I'm looking for health with ML<br>📖I'm trying to learn Agentic AI<br>🙈Fun Fact: "Javascript"<br>
+🔭I'm currently working on NextJs<br>💂‍♀️I'm looking to colaborate on Gsoc26<br>🤝I'm looking for help with ML<br>📖I'm trying to learn Agentic AI<br>🙈Fun Fact: "Javascript"<br>
 
 
 ## 🌐 Socials:
